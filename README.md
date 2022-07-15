@@ -723,6 +723,13 @@ Resolución
 
 4. VIDEO 
 
+Parte 1 
+
+https://youtu.be/Eoh2Rg9Xrd8
+
+Parte 2 
+
+https://youtu.be/Jg8E44l12eY
 
 5. CONCLUSIÓN 
 
