@@ -246,15 +246,15 @@ SECCIÓN 11–7 Análisis de circuitos de ca
 
 Resolución
 
-(a)Irms 
+(a) Irms 
 
-![image](https://user-images.githubusercontent.com/105255508/179102964-cbc255dc-91d3-45a8-bfd4-cb7cc1fd4d63.png)
+![image](https://user-images.githubusercontent.com/105255508/179121845-df6e9024-5ecc-451a-b1ec-de7120fb4698.png)
 
-(b)Iprom
+(b) Iprom
 
 ![image](https://user-images.githubusercontent.com/105255508/179103328-48716be4-84a6-441a-b6ec-a4046a98413b.png)
 
-(c)Ip 
+(c) Ip 
 
 ![image](https://user-images.githubusercontent.com/105255508/179103637-ab40ff86-9b38-4ada-b21f-d3eff3c929dc.png)
 
@@ -407,7 +407,7 @@ Resolución
 
 Resolución
 
-![image](https://user-images.githubusercontent.com/105255508/179116327-e4dbfb31-1b3e-4885-8dbd-51a4b9390ae9.png)
+![image](https://user-images.githubusercontent.com/105255508/179121905-dd25d6ff-c83f-4682-896f-2e3e3054f74d.png)
 
 8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils.¿Cuál es la capacitancia?
 
