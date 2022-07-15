@@ -4,11 +4,53 @@
 
 Objetivo General 
 
+•	Comprender y analizar los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 11 y 12, ya que es importante conocer la forma de onda sinusoidal, los diferentes valores de voltaje y corriente de onda seno, circuitos resistivos y saber las características básicas de un capacitor, analizar los diversos tipos de capacitadores, circuitos de cd con capacitadores conmutados.
 
 Objetivo Especifico 
 
+•	Describir las características más importantes de una onda sinusoidal, como se generan las ondas seno e identificar formas de onda no sinusoidales básicas.
+
+•	Conocer los conceptos sobre capacitores en serie, paralelo, y los circuitos de cd con capacitores conmutados dado que existen diversos tipos de capacitores y nos ayudada a saber su aplicación.
+
+•	Aplicar los conocimientos adquiridos en el capítulo 11 y 12 del libro Principios de circuitos Eléctricos, mediando la resolución de ejercicios poniendo en práctica lo aprendido sobre la forma de onda sinusoidal en el análisis de circuitos de ca y los capacitores en circuitos de ca y de cd.
+
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/105255508/179153040-56f5dc1a-8bbd-449f-b83e-66ed05ab7e74.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153067-1086db34-cc9d-474c-b670-f90b8874438f.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153092-ca140fcc-4998-46a2-a580-373cb2c03661.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153129-88775202-af3c-4a14-b58f-aa1f8cc8f5dd.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153161-02a93992-5bf4-4520-bbe5-d959a6b7c2c7.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153218-a974e63f-99fc-4380-9aef-677a405d2df3.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153240-9b811b56-dca0-4474-b4c9-1191451b90f8.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153280-8b95879e-9834-4550-b836-fb1df0f045d3.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153318-af65b0ab-f20e-406a-9b79-0a05d3d9ddf6.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153348-6cfa79a4-6cd9-42a9-a62f-d309270599e7.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153375-a63f97b0-ee1f-4208-8b91-fcba1989eb68.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153403-29b30171-6a6d-48bf-b4a7-7fc55432caa2.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153430-73319726-c7bb-4e77-800c-c8976afe1bbd.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153497-20b1c2b0-48d5-41e6-884a-e5707e401fd1.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153548-0591f103-bc81-40ee-8695-ae57907908d5.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153577-f7f15e18-5e8a-402d-b838-d20e47f0230b.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153605-cdca6b34-fc8f-4057-8f9f-a459c727990a.png)
+
+![image](https://user-images.githubusercontent.com/105255508/179153629-5e9eff3d-f09b-4736-975c-28ab3320f1bd.png)
 
 3. EXPLICACION Y RESOLUCION DE EJERICIOS O PROBLEMAS
 
@@ -684,5 +726,16 @@ Resolución
 
 5. CONCLUSIÓN 
 
+•	Por tanto, la onda seno es una forma de onda periódica que varía con el tiempo, y el ciclo de una onda seno alterna consta de alternación positiva y alternación negativa, sin olvidar que un ciclo completo de una onda seno es de 360° o 2π radianes, un medio ciclo es de 180° o π radianes.
+
+•	En relación con lo antes expuesto, la posición angular de un fasor representa el ángulo de la onda seno con respecto a una referencia de 0° y la longitud o magnitud de un fasor representa la amplitud y el voltaje sinusoidal puede ser generado por un conductor que gira en un campo magnético.
+
+•	Para resumir, un capacitor está compuesto por dos placas conductoras en paralelo separadas por un material aislante llamado dieléctrico, y su función es guardar energía en el campo eléctrico presente entre las placas.  
+
+•	Para sintetizar, la capacitancia es directamente proporcional al área de placas e inversamente proporcional a la separación entre placas y es importante mencionar que la resistencia dieléctrica es un factor que determina el voltaje de ruptura de un capacitor.
+
+•	Por tanto, la constante de tiempo para un circuito RC dispuesto en serie es la resistencia multiplicada por la capacitancia, y la a capacitancia total en serie es menor que la del capacitor más pequeño dispuesto en serie. 
 
 6. BIBLIOGRAFÍA
+
+Floyd TL. Principios de Circuitos Eléctricos. Octava Edición. Published online 2007:1-968. Accessed May 16, 2022. www.pearsoneducacion.net/floyd
