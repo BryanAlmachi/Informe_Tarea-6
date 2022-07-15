@@ -507,7 +507,14 @@ Resolución
 
 Resolución
 
-V_AB=
+(a) VAB = 5 V
+
+(b) VAB = 10 V
+
+(c) VAB = 10 V
+
+R= El voltaje entro los nodos A y B es igual al voltaje de la fuente de energia, ya que el capacitor esta en paralelo.
+
 SECCIÓN 12–5 Capacitores en circuitos de cd
 
 30. Determine la constante de tiempo para cada una de las combinaciones en serie:
@@ -516,25 +523,45 @@ Resolución
 
 (a) R=100 Ω  ;  C= 1 µF
 
+![image](https://user-images.githubusercontent.com/105255508/179117686-606a8bc9-d717-4925-9b64-dc4ccf3ba628.png)
+
 (b) R=10 MΩ  ;  C= 47 pF
+
+![image](https://user-images.githubusercontent.com/105255508/179117709-c117a55a-332f-4e33-b19c-13aca77698e8.png)
 
 (c) R=4.7 kΩ  ;  C= 0.0047 µF
 
+![image](https://user-images.githubusercontent.com/105255508/179117733-051e60a2-20ef-4b76-8b1a-7a78431d7d80.png)
+
 (d) R=1.5 MΩ  ;  C= 0.01 µF
 
+![image](https://user-images.githubusercontent.com/105255508/179117747-f3805c3f-e7c2-4d63-b09f-2fd66c1b1145.png)
+
 32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
+
+![image](https://user-images.githubusercontent.com/105255508/179117810-dde983a9-b13c-44f5-a058-866c108c0737.png)
 
 Resolución
 
 (a) 10 µs
 
+![image](https://user-images.githubusercontent.com/105255508/179117847-431be592-b423-485b-b67d-f01fec3c8b29.png)
+
 (b) 20 µs
+
+![image](https://user-images.githubusercontent.com/105255508/179117859-fb1c1102-084b-49b1-b322-a3f6cfe21a50.png)
 
 (c) 30 µs
 
+![image](https://user-images.githubusercontent.com/105255508/179117870-1e712f4f-3f63-402e-8a3a-5297ce0e5a15.png)
+
 (d) 40 µs
 
+![image](https://user-images.githubusercontent.com/105255508/179117902-eee3930c-d76d-4442-aed8-5b3967df07b2.png)
+
 (e) 50 µs
+
+![image](https://user-images.githubusercontent.com/105255508/179117912-c7fff2ca-d99f-4628-b724-90222c93b2ea.png)
 
 34. Repita el problema 32 con los siguientes intervalos de tiempo:
 
@@ -542,9 +569,15 @@ Resolución
 
 (a) 2 µs
 
+![image](https://user-images.githubusercontent.com/105255508/179118255-2a99da32-3a6f-46f6-b9b1-1ab8e1717d18.png)
+
 (b) 5 µs
 
+![image](https://user-images.githubusercontent.com/105255508/179118399-5a6e7a28-6a8f-4151-8553-6ec93ce8045b.png)
+
 (c) 15 µs
+
+![image](https://user-images.githubusercontent.com/105255508/179118466-e0c5ecb1-e1f7-40d5-a073-6b3fb9e0d274.png)
 
 36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor. 
   
@@ -552,17 +585,23 @@ Resolución
 
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/179119235-87b44953-1378-4ef8-90fe-bf9d17dab65a.png)
+
 38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
 
 ![image](https://user-images.githubusercontent.com/105255508/179091640-dd1350da-45eb-4d63-bbbc-e389b49d9e29.png)
 
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/179119271-82aabec1-f0d1-4e84-8262-a9e04e23c680.png)
+
 40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t=10 µs después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R
 
 ![image](https://user-images.githubusercontent.com/105255508/179092137-5e73ae92-65a7-4ee7-b73b-125e6bb3c0a8.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/179119639-dd2114e6-4a91-4814-8484-1287d7fb2dea.png)
 
 SECCIÓN 12–6 Capacitores en circuitos de ca
 
@@ -572,13 +611,29 @@ SECCIÓN 12–6 Capacitores en circuitos de ca
 
 Resolución
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/179119694-8a3cb502-956c-43c2-b080-56bb293a8f6b.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/179119729-76c55995-844e-43c2-a62e-76ffa8ec65e8.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/179119747-af1087b5-62ec-4f8a-90bd-feade47533ff.png)
+
 44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una Xc de 100 Ω? ¿Una Xc de 1 kΩ?
 
+![image](https://user-images.githubusercontent.com/105255508/179119793-07ccfdaa-defb-4569-9b9d-9bc1d45ef0b3.png)
+
 Resolución
+
+(a) ![image](https://user-images.githubusercontent.com/105255508/179119848-1784ac0a-eaf6-4c3b-8679-9dbae34f2206.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/179119885-99bfa827-52bb-4006-a95a-ed71e21f9755.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/179119903-340c61e6-d14a-4bf0-a23c-899b0eca9a1d.png)
 
 46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 µF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/179119927-02b718b7-09d5-4f5c-a708-f19c609129c7.png)
 
 48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81
 
@@ -586,11 +641,27 @@ Resolución
 
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/179120033-ddf9ae85-2ce2-4f43-be4c-3480a621c135.png)
+
+Para C1 ![image](https://user-images.githubusercontent.com/105255508/179120087-2fd3eb87-5319-412f-9063-ccc790808569.png)
+
+Para C2 ![image](https://user-images.githubusercontent.com/105255508/179120113-5607df0b-2058-4284-9e5a-0a85ae3de6ed.png)
+
+Para C3 ![image](https://user-images.githubusercontent.com/105255508/179120131-2feef4aa-9c64-4a92-a90b-f9e1c9cd0b4d.png)
+
+Para C4 ![image](https://user-images.githubusercontent.com/105255508/179120192-21061768-5103-4130-a6cd-68d34008602f.png)
+
+Para C5 ![image](https://user-images.githubusercontent.com/105255508/179120230-1f2d9631-f4d6-45ed-8909-d5f3651a5746.png)
+
+Para C6 ![image](https://user-images.githubusercontent.com/105255508/179120263-785ba2f8-67bb-4f36-99fa-bafb23d3bf0f.png)
+
 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores. 
 
 ![image](https://user-images.githubusercontent.com/105255508/179093480-42e08a4d-6732-4dc9-9af0-7d3ce47ad31b.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/179120353-39834644-8da9-48d3-b3f1-acce7a5e9729.png)
 
 SECCIÓN 12–7 Aplicaciones de los capacitores 
 
@@ -598,11 +669,15 @@ SECCIÓN 12–7 Aplicaciones de los capacitores
 
 Resolución
 
+R= La reactancia del capacitor debe ser de 0 Ω para eliminar un voltaje ca de 10 kHz
+
 SECCIÓN 12–8 Circuitos de capacitor conmutado
 
 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/179120685-d4bae77b-94bf-4304-942c-90d3061a5197.png)
 
 4. VIDEO 
 
